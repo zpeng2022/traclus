@@ -1,0 +1,49 @@
+{
+  "_from": "node-red-traclus@0.0.4",
+  "_id": "node-red-traclus@0.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-0uZTQ9gQLDf9mRgoeMe8qn50sKsfS9p8TNBiCKWc1VZYHdxS8/r07awZOKeK5MQB/KeTHU0K/xsy9FH3yi3QCg==",
+  "_location": "/node-red-traclus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "node-red-traclus@0.0.4",
+    "name": "node-red-traclus",
+    "escapedName": "node-red-traclus",
+    "rawSpec": "0.0.4",
+    "saveSpec": null,
+    "fetchSpec": "0.0.4"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_shasum": "a9cb65b5fe9b548e3f863ee3204017da428ab276",
+  "_spec": "node-red-traclus@0.0.4",
+  "_where": "/root/.node-red",
+  "author": {
+    "name": "jeffszh",
+    "name": "zpeng"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a function node that calls an executable .jar file.",
+  "keywords": [
+    "node-red",
+    "function",
+    "jar",
+    "java",
+    "kotlin",
+    "scala",
+    "jvm-based"
+  ],
+  "license": "Apache-2.0",
+  "name": "node-red-traclus",
+  "node-red": {
+    "nodes": {
+      "traclus": "traclus.js"
+    }
+  },
+  "version": "0.0.4"
+}
